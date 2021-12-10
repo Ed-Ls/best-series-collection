@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Modern Family",
+    "author": "Netflix",
+    "category": "Sitcom",
+    "img": "modern-family.jpg",
+    "img_alt": "Modern Family",
+    "sub_title": "You will laugh, and cry, and laugh again",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem saepe ad minima exercitationem, perferendis atque dolorum reiciendis maiores impedit quae cupiditate quidem dignissimos officia esse. Repellendus quas voluptatibus quae soluta laboriosam? Officiis eos molestias eveniet id enim animi expedita sapiente harum obcaecati quia fuga odio possimus, ut odit sunt. Magni illum nihil id reiciendis assumenda velit non nesciunt hic temporibus, exercitationem molestiae suscipit omnis error soluta delectus a aliquam eveniet necessitatibus eligendi vero modi, rem itaque sunt? Id nulla tenetur, neque voluptatibus doloribus, vel, labore possimus saepe iusto ea reprehenderit fuga. Adipisci dolorem aut ducimus nulla odit, voluptas iure."
+  },
+  {
+    "id": 2,
+    "title": "Breaking Bad",
+    "author": "Netflix",
+    "category": "Thriller",
+    "img": "breaking-bad.jpg",
+    "img_alt": "Breaking Bad",
+    "sub_title": "How to not sell drugs",
+    "text": "Officiis odit repellat inventore provident molestiae accusantium eaque quia nulla, vitae iste voluptatum aliquam laborum. Debitis consectetur maxime sapiente quod dolorem, similique velit illum sunt eaque autem rerum iure sint eveniet accusamus? Laborum, repudiandae error et est incidunt nostrum maiores officia doloremque dignissimos, ipsa quos laudantium repellendus! Quam autem vero minus consectetur, sed sit corrupti magnam reiciendis soluta nemo suscipit? Iste eos, nemo voluptatibus non quis at! Quod, molestiae hic cumque praesentium enim ullam laborum, soluta ad maxime itaque tempora ea. Dignissimos, velit animi perferendis facilis a qui nisi vitae dolor illo aspernatur eum quisquam, laboriosam omnis iure culpa ab."
+  },
+  {
+    "id": 3,
+    "title": "Orphan Black",
+    "author": "BBC",
+    "category": "Thriller",
+    "img": "orphan-black.jpg",
+    "img_alt": "Orphan Black",
+    "sub_title": "I wish I had a lot of sisters",
+    "text": "Natus eveniet architecto nam distinctio dolorum, beatae ipsum velit? Vero ullam necessitatibus nobis numquam dicta ipsum, quos in facilis labore. Ipsam, sapiente cupiditate illo quidem fugiat nulla quae tenetur quasi iste cum eos autem similique explicabo praesentium quia voluptas nobis magni labore corrupti delectus ipsa provident id corporis! Sunt, magni accusamus saepe reiciendis voluptate eligendi quam harum, eius ab officiis corrupti! Totam vero debitis nesciunt dignissimos error sequi, pariatur eius sunt eaque blanditiis veniam excepturi a amet, vel autem eos odio assumenda cum ab maxime itaque dolor. Harum fugiat exercitationem iusto! Natus ratione nihil rem corrupti earum mollitia, aliquam voluptatum."
+  },
+  {
+    "id": 4,
+    "title": "Arcane",
+    "author": "Netflix",
+    "category": "Action",
+    "img": "arcane.jpg",
+    "img_alt": "Arcane",
+    "sub_title": "The future of video games",
+    "text": "Dignissimos quia quo error, maxime recusandae praesentium aliquam dolorum consectetur fugiat! Corporis inventore eius, velit doloremque consectetur consequatur est voluptatibus libero iste ea dicta rerum quidem expedita? Quae natus porro voluptas provident cum quia eos ullam inventore accusamus recusandae vel molestias hic quibusdam ducimus iusto incidunt pariatur voluptates earum culpa temporibus magnam officiis numquam, libero id. Quae libero fugit aliquam vitae architecto laboriosam nihil tempore enim adipisci, quibusdam voluptatum ducimus ratione autem ipsum dolore alias. Molestiae, corrupti eligendi. Suscipit doloremque reiciendis ducimus deleniti, enim error eligendi iure provident ex laborum. Recusandae aspernatur eum vero, soluta non culpa laboriosam earum corporis."
+  },
+  {
+    "id": 5,
+    "title": "How I Met your Mother",
+    "author": "Prime Video",
+    "category": "Sitcom",
+    "img": "how-i-met.jpg",
+    "img_alt": "How I Met your Mother",
+    "sub_title": "The never ending story",
+    "text": "Laborum cumque dolorem dolorum alias quod asperiores? Facere, et? Illum praesentium delectus ex, corporis accusantium cum tenetur quia qui, maiores deserunt voluptatem, adipisci sapiente repellat perferendis! Est quae quaerat reiciendis numquam molestiae placeat beatae laudantium consequatur incidunt, itaque ab quas temporibus aut autem illum tenetur porro suscipit, id, quisquam sint architecto odit officia. Blanditiis labore animi aliquid minima esse autem porro voluptas vero quod at dolorem commodi inventore quia corrupti suscipit sit sequi ipsa alias accusantium incidunt, amet tempora cum. Dolorem numquam itaque mollitia dolor harum nihil, accusantium ad quis eos eveniet tempore animi illo praesentium dolores recusandae aspernatur facere!"
+  },
+  {
+    "id": 6,
+    "title": "Stranger Things",
+    "author": "Netflix",
+    "category": "Horror",
+    "img": "stranger-things.jpg",
+    "img_alt": "Stranger Things",
+    "sub_title": "It will turn your heart upside down.",
+    "text": "Quos odio consectetur asperiores nostrum distinctio. Cum ea voluptate inventore fuga ipsum quibusdam laboriosam tenetur consequuntur, at velit iusto, explicabo eos quis pariatur reprehenderit quae! Explicabo excepturi magni, fugit quod recusandae, exercitationem cumque sequi expedita quo alias necessitatibus illo eos aliquid blanditiis culpa facilis modi similique neque ab. Vel omnis ex quos sint, eius consequatur quae suscipit aliquid ipsa magni labore in sapiente incidunt ea quod placeat laborum molestias tempore facere nostrum cupiditate. Ipsum animi itaque reprehenderit libero et non cumque reiciendis quos magni voluptatibus assumenda nemo nisi, ea earum repellendus? Ullam illum ea sed cumque at enim id suscipit?"
+  }, 
+  {
+    "id": 7,
+    "title": "Dark",
+    "author": "Netflix",
+    "category": "Horror",
+    "img": "dark.jpg",
+    "img_alt": "Dark",
+    "sub_title": "Back and forth, the future is behind",
+    "text": "Quos odio consectetur asperiores nostrum distinctio. Cum ea voluptate inventore fuga ipsum quibusdam laboriosam tenetur consequuntur, at velit iusto, explicabo eos quis pariatur reprehenderit quae! Explicabo excepturi magni, fugit quod recusandae, exercitationem cumque sequi expedita quo alias necessitatibus illo eos aliquid blanditiis culpa facilis modi similique neque ab. Vel omnis ex quos sint, eius consequatur quae suscipit aliquid ipsa magni labore in sapiente incidunt ea quod placeat laborum molestias tempore facere nostrum cupiditate. Ipsum animi itaque reprehenderit libero et non cumque reiciendis quos magni voluptatibus assumenda nemo nisi, ea earum repellendus? Ullam illum ea sed cumque at enim id suscipit?"
+  }
+]

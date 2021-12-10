@@ -1,0 +1,129 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 300;
+  background-color: #F0F2F5;
+}
+
+a {
+  color:rgba(204,41,28,1);
+  text-decoration: none;
+}
+
+a:hover, a:focus {
+  color: rgba(121,9,42,1);
+}
+
+.banner {
+  background: linear-gradient(30deg, rgba(121,9,42,1) 40%, rgba(204,41,28,1) 100%);
+  text-align: center;
+  padding: 2rem;
+}
+
+.banner-logo {
+  margin: 0 auto 1rem;
+  width: 3em;
+}
+
+.content {
+  padding: 1rem;
+}
+
+.content-title {
+  margin: 1rem;
+  font-size: 2.5em;
+  font-weight: 300;
+}
+
+.card {
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-meta {
+  font-style: italic;
+}
+
+.card-img {
+  height: 15rem;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.card-action {
+  margin-top: auto;
+  align-self: flex-start;
+}
+
+.post {
+  padding: 1rem;
+  max-width: 40em;
+  margin: 0 auto 2rem;
+}
+
+.post-meta {
+  font-style: italic;
+}
+
+.post-picture {
+  margin: 2rem 0;
+}
+
+.post-content {
+  line-height: 1.5;
+  font-size: 1.2em;
+}
+
+.post-picture-caption {
+  font-style: italic;
+  margin-top: 0.3rem;
+}
+
+.pure-g [class*=pure-u] {
+  font-family: 'Work Sans', sans-serif;
+}
+
+.pure-menu-list {
+  margin-top: 3rem;
+}
+
+.pure-menu-item {
+  font-size: 1.25em;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+  padding: 5px;
+}
+
+.pure-menu-link {
+  color: white;
+}
+
+.pure-menu-item:last-child {
+  border: none;
+}
+
+.pure-button {
+  background-color: rgba(121,9,42,1);
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.pure-button:hover {
+  background-color: rgba(204,41,28,1);
+  color: white;
+}
+
+@media screen and (min-width: 48em) {
+  .banner {
+    min-height: 100vh;
+  }
+
+  .banner-logo {
+    width: 6em;
+  }
+}
